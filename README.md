@@ -91,7 +91,7 @@ Live site: [https://muhammad-saad-awan.vercel.app/](https://muhammad-saad-awan.v
 
    ```bash
    git clone <your-repository-url>
-   cd 3d-portfolio
+   cd muhammad.saad
    ```
 
 2. Install dependencies:
